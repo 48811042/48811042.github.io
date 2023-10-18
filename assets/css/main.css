@@ -3168,7 +3168,7 @@ input, select, textarea {
 		padding: 10px 20px; /* 设置链接内边距 */
 		display: inline-block;
 		text-align: center; /* 将文本水平居中对齐 */
-		border: 2.1px solid; /* 添加链接的边框样式 */
+		border: 2px solid; /* 添加链接的边框样式 */
 		border-radius: 5px; /* 添加边框的圆角效果 */
 		color: #333; /* 保持文字颜色 */
 	  }
